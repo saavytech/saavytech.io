@@ -1,7 +1,7 @@
 {
   "name": "practice-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://saavytech.github.io/saaytech",
   "dependencies": {
     "gh-pages": "^1.0.0",
